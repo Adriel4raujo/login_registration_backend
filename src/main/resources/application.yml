@@ -2,6 +2,8 @@ server:
     error:
         include-message: always
         include-binding-errors: always
+    port: 8081
+
 
 spring:
     datasource:
